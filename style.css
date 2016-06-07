@@ -9,7 +9,6 @@ body,html {
     text-decoration: none; 
     font-weight: 300; 
     line-height: 1;
-    
 }
           
           
@@ -94,12 +93,14 @@ a{
 }
 
 .footer {
-    height: 576px;
+    height: 300px;
     width: 1024px;
     margin-right: auto;
     margin-left:auto;
+    margin-top:0px;
+    margin-bottom:100px;
     background-color: #fff;
-    padding:120px;
+    padding:50px;
     font-weight: 400;
 }
 
@@ -112,7 +113,7 @@ h1 {
 }
 
 
-#contenu1 { 
+#info1 { 
     font-size: 16px;
     color:#7f8c8d;
     font-family:sans-serif;
@@ -122,7 +123,7 @@ h1 {
     width: 48.5%;
 }
 
-#contenu2 {
+#info2 {
     font-size:16px;
     color:#7f8c8d;
     font-family: sans-serif;
@@ -131,7 +132,7 @@ h1 {
     width: 48.5%;
 }    
 
-#contenu3 {
+#info3 {
     font-size:16px;
     color:#7f8c8d;
     font-family: sans-serif;
@@ -141,7 +142,7 @@ h1 {
     clear: both;
 }
                
-#contenu4 {
+#info4 {
     font-size:16px;
     color:#7f8c8d;
     line-height: 26px;
